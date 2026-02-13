@@ -1,2 +1,2 @@
-# Company Project 
+# Company Project (Branch 2)
 Initial setup
