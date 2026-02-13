@@ -1,2 +1,2 @@
-# company Project 
+# Company Project 
 Initial setup
